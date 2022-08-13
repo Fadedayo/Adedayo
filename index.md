@@ -8,7 +8,7 @@
 <Capture4.png?raw=true"/>
 
 ---
-[Project 2 ]
+[dashboard project]
 <dashboard.jpg?raw=true"/>
 
 ---
